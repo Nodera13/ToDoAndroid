@@ -25,7 +25,7 @@
         android:layout_marginTop="16dp"
         android:layout_marginBottom="16dp"
         android:text="@string/it"
-        android:textColor="@color/baby_blue"
+        android:textColor="@color/colorBaby_blue"
         android:textSize="32sp"
         android:textStyle="bold" />
 

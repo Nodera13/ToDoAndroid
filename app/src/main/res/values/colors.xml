@@ -10,5 +10,6 @@
     <color name="colorPrimary">#FFFFFF</color>
     <color name="colorPrimaryDark">@android:color/holo_green_dark</color>
     <color name="colorAccent">#000000</color>
-    <color name="baby_blue">#b6e1f6</color>
+    <color name="colorBaby_blue">#b6e1f6</color>
+    <color name="colorSeafoam_blue">#ace3e0</color>
 </resources>
